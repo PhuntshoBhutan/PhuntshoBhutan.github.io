@@ -1,3 +1,3 @@
 # Phuntsho Bhutan
-![]()
+![](https://github.com/PhuntshoBhutan/PhuntshoBhutan.github.io/blob/main/images/phuntsho_photo_small.png)
 [Hello and a warm welcome to my page!](https://www.linkedin.com/in/phuntsho-phuntsho-51500437/) It is my pleasure to introduce myself as a passionate professional in the fascinating field of spatial science and technology. My focus lies in optimizing geospatial intelligence and remote sensing solutions to address various environmental issues, such as land-use change analysis, deforestation assessments, natural resource management, sustainable sourcing, national forest monitoring systems, national forest reference level preparation, wildlife and nature conservation. With my extensive knowledge and expertise in spatial science, I am dedicated to making a positive impact on the world, and I believe that together, we can create a better future for our planet.
