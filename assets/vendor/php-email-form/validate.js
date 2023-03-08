@@ -1,7 +1,7 @@
 /**
 * PHP Email Form Validation - v3.5
-* URL: https://Phuntsho.com/php-email-form/
-* Author: Phuntsho.com
+* URL: https://Phuntsho Bhutan/php-email-form/
+* Author: Phuntsho Bhutan
 */
 (function () {
   "use strict";
